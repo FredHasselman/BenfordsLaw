@@ -33,9 +33,6 @@ plot(cv2)
 (cv2lo <- benford(data.study2.long$last.ori, sign = "positive", number.of.digits = 1, discrete = TRUE))
 plot(cv2lo)
 
-# 1st digit looks normal
-(cv2 <- benford(data.study2.long$weight, sign = "positive", number.of.digits = 1, discrete = FALSE))
-plot(cv2)
 
 
 # Positive centered values
