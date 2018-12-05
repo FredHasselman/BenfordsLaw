@@ -1,2 +1,2 @@
 # BenfordsLaw
-Dabbling with Benford's Law on various data sets
+Dabbling in Benford's Law analysis on various data sets
